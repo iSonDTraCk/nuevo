@@ -1,3 +1,4 @@
 # Primer proyecto 
-## DAGM
+## Construcción de software 
+Autor: DAGM
 
